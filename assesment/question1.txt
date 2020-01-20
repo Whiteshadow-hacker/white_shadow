@@ -1,0 +1,96 @@
+QUESTION 1:
+A string in Python is a sequence of characters. It is a derived data type.
+
+QUESTION 2:
+
+membership operators: in,notin.isnot
+basic operators : + , - , * 
+
+QUESTION 3:
+
+# output:
+
+lllll
+hl
+4
+
+QUESTION 5 :
+
+a) 3 should come after "abc"
+
+c) a string cannot be multiplied with a string
+
+d) a string and a number cannot be added
+
+QUESTION 7:
+
+STR[0]=E
+SRT[-1]=T
+
+QUESTION 8:
+
+bbbcc
+3
+bbbcc
+4
+
+QUESTION 9:
+
+srt- Computer science
+str[0]- C
+str[1:4]- omp
+str[2:]- mputer science
+str *2- Computer scienceComputer science
+str+'yes'- Computer scuenceyes
+
+QUESTION 10:
+
+False
+True
+True
+True
+False
+False
+True
+
+Question 11 :
+
+1,2,3,4,5,6
+
+1,3,5,7
+ 
+error
+
+0,1,2,3,4,5
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
